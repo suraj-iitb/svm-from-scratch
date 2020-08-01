@@ -1,5 +1,5 @@
 # svm-from-scratch
 
 SVM implementation using 
-1. SVO
+1. SMO (Sequential Minimum Optimization)
 2. Quadratic Programming Toolkit
